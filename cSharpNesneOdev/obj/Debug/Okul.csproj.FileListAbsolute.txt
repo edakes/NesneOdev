@@ -1,0 +1,7 @@
+C:\Users\EDA\source\repos\Egitim1\Okul\obj\Debug\Okul.csproj.AssemblyReference.cache
+C:\Users\EDA\source\repos\Egitim1\Okul\obj\Debug\Okul.csproj.CoreCompileInputs.cache
+C:\Users\EDA\source\repos\Egitim1\Okul\bin\Debug\Okul.exe.config
+C:\Users\EDA\source\repos\Egitim1\Okul\bin\Debug\Okul.exe
+C:\Users\EDA\source\repos\Egitim1\Okul\bin\Debug\Okul.pdb
+C:\Users\EDA\source\repos\Egitim1\Okul\obj\Debug\Okul.exe
+C:\Users\EDA\source\repos\Egitim1\Okul\obj\Debug\Okul.pdb
